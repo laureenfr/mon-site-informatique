@@ -1,0 +1,17 @@
+site_name: Homelab Documentation Center
+
+theme:
+  name: material
+
+palette:
+  - scheme: slate
+    primary: blue grey
+    accent: light blue
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Accueil: index.md
+  - Procédures: procedures.md
+  - BTS: BTS.md
